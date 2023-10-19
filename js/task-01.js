@@ -10,8 +10,8 @@
     const categoryItems = category.querySelectorAll("ul li"); 
 
     
-    console.log("Category: " + categoryName);
-    console.log("Elements: " + categoryItems.length);
+    console.log("Category: ", categoryName);
+    console.log("Elements: ", categoryItems.length);
   });
 
 
